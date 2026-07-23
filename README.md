@@ -1,7 +1,7 @@
 # Voxel Pole/Powerline Pipeline v3 — corrected Stages 4–6
 
 This package fixes the failure after the successful MAE and initial segmentation stages.
-It is optimized for the Nebius VM described by the user:
+It is optimized for the Nebius VM used:
 
 - 1 × NVIDIA H100 SXM GPU
 - 16 vCPUs
