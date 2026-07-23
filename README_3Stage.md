@@ -49,7 +49,7 @@ Each run writes to its own directory under `/outputs`, for example
 - `dataset_splits_phaseN.txt`
 - model checkpoints (`best_phaseN.pth`, `last_phaseN.pth`)
 
-The download script excludes model/checkpoint files.
+The script excludes model/checkpoint files.
 
 ## Upload from Mac
 
